@@ -1,0 +1,2 @@
+# Amazon-Scraper&Analyzer
+ Amazon Scraper & Analyzer é uma aplicação Python que coleta dados de fones de ouvido da Amazon, categoriza-os por tipo (Bluetooth, com cabo, headset, intra-auricular) e conector (P2, USB-C), e armazena as informações em um banco de dados SQLite. Além disso, a aplicação inclui uma interface interativa desenvolvida com Streamlit para análise e visualização dos dados coletados, como preços, avaliações e produtos patrocinados.
