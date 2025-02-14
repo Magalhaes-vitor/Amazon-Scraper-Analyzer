@@ -105,7 +105,7 @@ Se tiver dúvidas ou sugestões, entre em contato:
 
 - **Nome**: Vitor Magalhães
 - **GitHub**: [Magalhaes-vitor](https://github.com/Magalhaes-vitor)
-- **Email**: vitor.magalhaes@example.com
+- **Email**: Vitor.de.toledo.magalhaes@gmail.com 
 - **Linkedin**: [Magalhaes-vitor](https://www.linkedin.com/in/magalhaes-vitor)
 ```
 
